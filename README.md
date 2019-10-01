@@ -22,7 +22,7 @@ These are trains which have numbered carriages from 0 onwards. Each carriage can
 # A magic spell box(function): 
 This is a box with a name on it and some instructions of magic spell in it. You can have some sleeping princess in this box as well. That magic spell will come to life when you call it, with () next to the spell name. When you do that, it actually creates a sub-realm, where all the magic happens(but that is a separate story). At the end of the magic usually an object is created(number or word) or modified(if it is a train etc). The sub-realm always returns something back to the main realm and then disappears. It can return the object it was working on, if you ask for it.
 
-# Sleeping princess(variables): 
+# Sleeping princess(variable): 
 If you don’t want the genie to recycle the objects, one of the sleeping princess needs to wake up and hold the object for you. They won’t wake up unless you give them a name. They won’t stay awake unless you give them an object to hold. You and python recognise something in your code as a princess because their name starts with a letter without “ or ‘ around it (or start with an _ ). You can send the princess back to sleep with del incantation. Then the princess forgets the name, leaves the object and goes back to sleep.
 
 I will upload Jupyter notebook files with code examples to explain this mental model.
