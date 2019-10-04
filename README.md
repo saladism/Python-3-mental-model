@@ -4,7 +4,7 @@ A story to help build the mental model of Python 3.
 This story is written for beginner Python programmers, particulalry for those who do not have computer science background.
 The story is inspired by a talk that I have seen online by Python guru Brandon Rhodes. https://pyvideo.org/pyohio-2011/pyohio-2011-names-objects-and-plummeting-from.html
 
-Imagine Python 3 as a magical realm. There are few things in this realm. There is a genie, a big recycle bin and lots of sleeping princesses.
+**Imagine Python 3 as a magical realm. There are few things in this realm. There is a genie, a big recycle bin and lots of sleeping princesses.**
 
 # Genie: 
 This is the Python language it self, to whom you need to make requests with special incantations(syntax). If your incantation is incorrect, the genie complains with syntax error. The genie makes any “object” you want, as long as you use the special incantations. If you ask for another object, the genie does not store the object it just created but just tosses it in the recycle bin (most of the time) and makes a new object for you.
@@ -38,4 +38,4 @@ Once anaconda is installed, use JupyterLab in the anaconda navigator to open the
 
 You can now skip the file titled 01-Introduction(as it is same) and go to file 02-Variables.
 
-- Satya Saladi
+-- Satya Saladi
