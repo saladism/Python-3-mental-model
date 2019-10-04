@@ -33,7 +33,7 @@ You can download this files and play with them.
 The bestway to install Jupyter is with anaconda distribution available at https://www.anaconda.com/distribution/
 
 Download 3.7 (or higher) version of your operating system.
-Once anaconda is installed, use JupyterLab in the anaconda navigator to open these notebook files.
+Once anaconda is installed, use JupyterLab in the anaconda navigator to open these notebook files.\
 <kbd>Shift</kbd> + <kbd>Enter</kbd> to go through each line in the file
 
 You can now skip the file titled 01-Introduction(as it is same) and go to file 02-Variables.
