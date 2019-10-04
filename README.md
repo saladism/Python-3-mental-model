@@ -32,6 +32,7 @@ I uploaded some Jupyter notebook files with code examples to explain this mental
 You can download this files and play with them.
 The bestway to install Jupyter is with anaconda distribution available at https://www.anaconda.com/distribution/
 
-Download 3.7 + version of your operating system.
+Download 3.7 (or higher) version of your operating system.
 Once anaconda is installed, use JupyterLab in the anaconda navigator to open these notebook files.
+SHIFT + ENTER to go thorugh each file
 - Satya Saladi
