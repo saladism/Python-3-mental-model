@@ -28,14 +28,14 @@ This is a box with a name on it and some instructions of magic spell in it. You 
 If you don’t want the genie to recycle the objects, one of the sleeping princess needs to wake up and hold the object for you. They won’t wake up unless you give them a name. They won’t stay awake unless you give them an object to hold. You and python recognise something in your code as a princess because their name starts with a letter without “ or ‘ around it (or start with an _ ). You can send the princess back to sleep with del incantation. Then the princess forgets the name, leaves the object and goes back to sleep.
 
 
-I uploaded some Jupyter notebook files with code examples to explain this mental model.
+I have uploaded some Jupyter notebook files with code examples to explain this mental model.
 You can download this files and play with them.
 The bestway to install Jupyter is with anaconda distribution available at https://www.anaconda.com/distribution/
 
-Download 3.7 (or higher) version of your operating system.
+Download 3.7 (or higher if available) version, for your operating system.
 Once anaconda is installed, use JupyterLab in the anaconda navigator to open these notebook files.\
 <kbd>Shift</kbd> + <kbd>Enter</kbd> to go through each line in the file
 
-You can now skip the file titled 01-Introduction(as it is same) and go to file 02-Variables.
+You can now skip the file titled 01-Introduction(as it has the same content) and go to file named 02-Variables.
 
 -- Satya Saladi
