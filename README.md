@@ -50,7 +50,7 @@ It returns the object it created back to the main realm as long as you put the r
 
 ## Sleeping princess(variables): 
 If you don’t want the genie to recycle the objects, one of the sleeping princess needs to wake up and hold it for you.\
-**They wont wake up unless you give them a name.**\
+**They won't wake up unless you give them a name.**\
 **They won’t stay awake unless you give them an object to hold.**\
 You and python recognise something in your code as a princess because their name starts with a letter without “ or ‘ around it (or with an _ ).\
 You can send the princess back to sleep with **del** incantation.\
